@@ -1,5 +1,5 @@
-## 论文：Predicting new superconductors and their critical temperatures using machine learning
-***
+## 论文：Predicting new superconductors and their critical temperatures using machine learning  
+
 **该项目使用一些收集来的数据对其复现**  
 
 - trans.ipynb 可以将化学式类型的数据转换为所需的元素比例数据。
