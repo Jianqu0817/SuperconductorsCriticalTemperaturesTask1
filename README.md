@@ -1,4 +1,4 @@
-## 论文：Predicting new superconductors and their critical temperatures using machine learning  
+## 论文：Predicting new superconductors and their critical temperatures using machine learning 的复现
 
 **该项目使用一些收集来的数据对其复现**  
 
